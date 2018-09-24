@@ -1,1 +1,1 @@
-ECHO is on.
+require('./src/lib/server').start();
